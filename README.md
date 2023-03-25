@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://johnnelsonpdx.netlify.app/](https://johnnelsonpdx.netlify.app/)
 
-- 💬 Ask me about **React, D3.js, JavaScript**
+- 💬 Ask me about **React, D3.js, JavaScript, Data Visualization, or my dog**
 
 - 📫 How to reach me **JohnNelson4850@gmail.com**
 
