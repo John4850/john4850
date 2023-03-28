@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **JohnNelson4850@gmail.com**
 
-- ⚡ Fun fact **I am somewhat of a dog whisperer, and prefer to spend my free time on the floor with fluffy friends.**
+- ⚡ Fun fact **I am somewhat of a dog whisperer, and prefer to spend my free time with fluffy friends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
