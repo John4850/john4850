@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Better Future For All](https://bffa.org)
 
-- 🌱 I’m currently learning **TypeScript, C#, .NET and AWS tools.**
+- 🌱 I’m currently learning **TypeScript, C#, .NET and AWS certifications.**
 
 - 👨‍💻 All of my projects are available at [https://johnnelsonpdx.netlify.app/](https://johnnelsonpdx.netlify.app/)
 
