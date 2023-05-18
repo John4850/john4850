@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, C#, .NET and AWS certifications.**
 
-- 👨‍💻 All of my projects are available at [https://johnnelsonpdx.netlify.app/](https://johnnelsonpdx.netlify.app/)
+- 👨‍💻 My projects are available at [https://johnnelsonpdx.netlify.app/](https://johnnelsonpdx.netlify.app/)
 
 - 💬 Ask me about **React, D3.js, JavaScript, Data Visualization, or my dog**
 
